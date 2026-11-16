@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "DouglasDev/hex-edo",
+    "title": "Hex EDO",
+    "description": "Explore equal divisions of the octave on a playable hexagonal keyboard.",
+    "url": "https://douglasdev.github.io/hex-edo/"
+  },
+  {
+    "repository": "DouglasDev/spem",
+    "title": "Spem in Alium",
+    "description": "Explore Thomas Tallis’s forty-part motet, voice by voice.",
+    "url": "https://douglasdev.github.io/spem/"
+  }
+]

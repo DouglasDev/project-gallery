@@ -1,0 +1,14 @@
+:root {
+  font-family: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif;
+  background: #17191c;
+  color: #f4eddf;
+  font-synthesis: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
