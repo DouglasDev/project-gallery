@@ -10,5 +10,10 @@
     "title": "Spem in Alium",
     "description": "Explore Thomas Tallis’s forty-part motet, voice by voice.",
     "url": "https://douglasdev.github.io/spem/"
+  },
+  {
+    "repository": "DouglasDev/emoji-chords",
+    "url": "https://douglasdev.github.io/emoji-chords/",
+    "title": "emoji chords"
   }
 ]
